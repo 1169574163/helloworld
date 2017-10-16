@@ -7,5 +7,6 @@ public class Main {
         p.setSex("男");
         p.setAge(23);
         p.toString();
+        NewControl.showInfo("新添加功能！");
     }
 }
